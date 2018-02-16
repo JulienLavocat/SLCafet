@@ -1,0 +1,22 @@
+{
+  "name": "slcafet",
+  "version": "1.0.0",
+  "description": "Accounting and inventory management application for the cafeteriat of Saint-Louis High School",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienLavocat/SLCafet.git"
+  },
+  "author": "Julien Lavocat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JulienLavocat/SLCafet/issues"
+  },
+  "homepage": "https://github.com/JulienLavocat/SLCafet#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
